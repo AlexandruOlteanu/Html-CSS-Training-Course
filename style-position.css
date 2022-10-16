@@ -1,0 +1,38 @@
+.container {
+    position: relative;
+}
+
+img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.fa-bell {
+    font-size: 90px;
+    position: absolute;
+    top:-45px;
+    left: 46%;
+}
+
+.circle1 {
+    font-size: 25px;
+    color: red;
+    position: absolute;
+    top: -46px;
+    left: 50.5%;
+}
+
+  
+  .container {
+    position: relative;
+    height: 200px;
+  }
+  
+  
+  .container-caption {
+    position:absolute;
+    top:0px;
+    width:100%;
+  }
